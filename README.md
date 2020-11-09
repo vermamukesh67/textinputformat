@@ -1,4 +1,4 @@
-# textinputformat
+# build the very useful text input formatter of any type.
 
 Output screen
 
